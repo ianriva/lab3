@@ -12,9 +12,30 @@ public class Ej2
 {
     public static void Ejercicio2()
     {
-        int aleatorio;
+        int aleatorio, entrada, intentos = 0;
         Random rand = new Random();
         aleatorio = rand.Next(101);
-        Console.WriteLine(aleatorio);
+        Console.WriteLine("Adivine el número (0-100), -1 para salir");
+        do
+        {
+            try
+            {
+                entrada = Convert.ToInt32(Console.ReadLine());
+            }
+            catch
+            {
+                entrada = -1;
+            }
+            intentos++;
+            if (entrada == aleatorio)
+            {
+                Console.WriteLine("Ganó en " + intentos + " intentos!");
+                break;
+            } else if (entrada < aleatorio && entrada != -1){
+                Console.WriteLine("Muy bajo! Intente nuevamente.");
+            } else if(entrada > aleatorio){
+                Console.WriteLine("Muy Alto! Intente nuevamente.");
+            }
+        } while (aleatorio != entrada || entrada != -1);
     }
 }
