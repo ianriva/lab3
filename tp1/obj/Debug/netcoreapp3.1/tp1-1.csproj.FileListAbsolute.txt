@@ -1,0 +1,13 @@
+/home/ianr/dev/lab3/tp1-1/bin/Debug/netcoreapp3.1/tp1-1
+/home/ianr/dev/lab3/tp1-1/bin/Debug/netcoreapp3.1/tp1-1.deps.json
+/home/ianr/dev/lab3/tp1-1/bin/Debug/netcoreapp3.1/tp1-1.runtimeconfig.json
+/home/ianr/dev/lab3/tp1-1/bin/Debug/netcoreapp3.1/tp1-1.runtimeconfig.dev.json
+/home/ianr/dev/lab3/tp1-1/bin/Debug/netcoreapp3.1/tp1-1.dll
+/home/ianr/dev/lab3/tp1-1/bin/Debug/netcoreapp3.1/tp1-1.pdb
+/home/ianr/dev/lab3/tp1-1/obj/Debug/netcoreapp3.1/tp1-1.csprojAssemblyReference.cache
+/home/ianr/dev/lab3/tp1-1/obj/Debug/netcoreapp3.1/tp1-1.AssemblyInfoInputs.cache
+/home/ianr/dev/lab3/tp1-1/obj/Debug/netcoreapp3.1/tp1-1.AssemblyInfo.cs
+/home/ianr/dev/lab3/tp1-1/obj/Debug/netcoreapp3.1/tp1-1.csproj.CoreCompileInputs.cache
+/home/ianr/dev/lab3/tp1-1/obj/Debug/netcoreapp3.1/tp1-1.dll
+/home/ianr/dev/lab3/tp1-1/obj/Debug/netcoreapp3.1/tp1-1.pdb
+/home/ianr/dev/lab3/tp1-1/obj/Debug/netcoreapp3.1/tp1-1.genruntimeconfig.cache
