@@ -1,5 +1,24 @@
 /*
-
+Codifique 5 funciones C# que resuelvan las operaciones matemáticas:
+Suma +
+Resta –
+Multiplicación *
+División /
+Modulo %
+Aplicadas sobre 2 números decimales.
+Posteriormente codifique un programa que solicite el ingreso por parte del usuario de
+2 números decimales y una vez ingresados le pregunte qué operación quiere realizar:
+a- Suma +
+b- Resta –
+c- Multiplicación *
+d- División /
+e- Modulo %
+En caso de que no ingrese ninguna de las opciones permitidas emita el mensaje “La
+opción ingresada no es válida” y vuelva nuevamente a preguntarle qué operación
+matemática quiere ejecutar.
+Si la opción es válida envié los números decimales ingresados por el usuario a la
+función que corresponda y retorne el resultado de la operación.
+Finalmente muestre un mensaje indicando el resultado de la operación realizada.
 */
 using System;
 
